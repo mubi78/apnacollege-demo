@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first github repo for practice .
 <br>
-Author - Mubeen Ahmed
+Author - Mubeen (Apna College)
+
